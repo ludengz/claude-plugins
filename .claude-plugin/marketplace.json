@@ -1,0 +1,16 @@
+{
+  "name": "ludengz-plugins",
+  "owner": {
+    "name": "ludengz"
+  },
+  "plugins": [
+    {
+      "name": "awesome-epub-translator",
+      "source": {
+        "source": "github",
+        "repo": "ludengz/awesome-epub-translator-skill"
+      },
+      "description": "Translate ePub files between languages with high-quality AI translation. Preserves formatting, inline HTML tags, images, and styles."
+    }
+  ]
+}
